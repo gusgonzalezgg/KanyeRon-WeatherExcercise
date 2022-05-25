@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gusgo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gusgo\\.nuget\\packages"
+    ]
+  }
+}
